@@ -1,4 +1,4 @@
-![uwu-cat](https://github.com/Krille360/Krille360/assets/65959215/22409bc3-0e44-49ad-acac-197e69088e49)
+![a475067d17c45fd](https://github.com/Krille360/Krille360/assets/65959215/80f991be-6d2c-42b0-9a19-5e416ffb378e)
 ### Hi there 👋
 My name is Christoffer and I am currently a CS student, always trying to learn new things!
 
