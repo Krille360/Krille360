@@ -3,10 +3,10 @@
 My name is Christoffer and I am a CS student who is always looking to learn new things!
 
 ### Skills & Experience
-\nJava
-C#
-.NET applications for Windows using C#
-Arduino
+Java<br>
+C#<br>
+.NET applications for Windows using C#<br>
+Arduino<br>
 Relations Databases powered by MariaDB/MySQL
 
 ### Work
