@@ -5,6 +5,7 @@ My name is Christoffer and I am a CS student and professional networking technic
 ## Skills & Experience
 Java<br>
 C#<br>
+C++<br>
 .NET applications for Windows using C#<br>
 Arduino<br>
 Relations Databases powered by MariaDB/MySQL<br>
