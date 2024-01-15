@@ -19,7 +19,7 @@ Windows Server 2012-2022 Std & Core Versions<br>
 Wireless with Ubiquiti
 
 ## Work
-Networking Technician
+Systems/Networking Technician
 
 ### Contact Me!
 Discord: krilletgi
