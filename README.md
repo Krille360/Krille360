@@ -1,6 +1,6 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f30484f545132642e676966](https://github.com/Krille360/Krille360/assets/65959215/d96e9ceb-fa6f-4ba6-8b55-ff188abe8667)
 ## Hi there 👋
-My name is Christoffer and I am a CS student who is always looking to learn new things!
+My name is Christoffer and I am a CS student and professional networking technician who is always looking to learn new things!
 
 ## Skills & Experience
 Java<br>
@@ -13,7 +13,7 @@ Relations Databases powered by MariaDB/MySQL
 N/A
 
 ### Contact Me!
-Discord: Krille#5389
+Discord: krilletgi
 <!--
 **Krille360/Krille360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
