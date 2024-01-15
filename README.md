@@ -8,13 +8,14 @@ C#<br>
 .NET applications for Windows using C#<br>
 Arduino<br>
 Relations Databases powered by MariaDB/MySQL<br>
-Networking with HP provision, ComWare 7, Aruba, Cisco, Huawei<br>
+Networking with HP provision, ComWare 7, Aruba, Cisco, Huawei and Mikrotik<br>
 VMware vCenter Application 6.x<br>
 VMware ESXI 6.x<br>
 Microsoft Active Directory<br>
 Microsoft Exchange<br>
 Linux Ubuntu and Debian<br>
 Windows Server 2012-2022 Std & Core Versions
+Wireless with Ubiquiti
 
 ## Work
 Networking Technician
