@@ -8,9 +8,16 @@ C#<br>
 .NET applications for Windows using C#<br>
 Arduino<br>
 Relations Databases powered by MariaDB/MySQL
+Networking with HP provision, ComWare 7, Aruba, Cisco, Huawei
+VMware vCenter Application 6.x
+VMware ESXI 6.x
+Microsoft Active Directory
+Mocrosoft Exchange
+Linux Ubuntu and Debian
+Windows Server 2012-2022 Std & Core Versions
 
 ## Work
-N/A
+Networking Technician
 
 ### Contact Me!
 Discord: krilletgi
