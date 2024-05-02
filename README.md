@@ -1,6 +1,6 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f30484f545132642e676966](https://github.com/Krille360/Krille360/assets/65959215/d96e9ceb-fa6f-4ba6-8b55-ff188abe8667)
 ## Hi there 👋
-My name is Christoffer and I am a CS student and professional networking engineer who is always looking to learn new things!
+My name is Christoffer and I am a CS student and professional systems engineer who is always looking to learn new things!
 
 ## Skills & Experience
 Java<br>
@@ -11,8 +11,10 @@ C++<br>
 Arduino<br>
 Relations Databases powered by MariaDB/MySQL<br>
 Networking with HP provision, ComWare 7, Aruba, Cisco, Huawei and Mikrotik<br>
-VMware vCenter Application 6.x<br>
-VMware ESXI 6.x<br>
+Firewalls from Fortinet, Checkpoint and Clavister<br>
+Fujitsu Fiberchannel SAN<br>
+VMware vCenter Application<br>
+VMware ESXI<br>
 Microsoft Active Directory<br>
 Microsoft Exchange<br>
 Linux Ubuntu and Debian<br>
