@@ -2,6 +2,9 @@
 ## Hi there 👋
 My name is Christoffer and I am a CS student and professional systems engineer who is always looking to learn new things!
 
+## Current Projects
+ - https://thegoldyiron.se
+
 ## Skills & Experience
 Java<br>
 Javascript<br>
@@ -14,12 +17,16 @@ Networking with HP provision, ComWare 7, Aruba, Cisco, Huawei and Mikrotik<br>
 Firewalls from Fortinet, Checkpoint and Clavister<br>
 Fujitsu Fiberchannel SAN<br>
 VMware vCenter Application<br>
-VMware ESXI<br>
+VMware ESX<br>
 Microsoft Active Directory<br>
 Microsoft Exchange<br>
 Linux Ubuntu and Debian<br>
 Windows Server 2012-2022 Std & Core Versions<br>
 Wireless with Ubiquiti
+
+## Upcoming Projects
+ - https://myso.me
+ - Unnamed Indie Game
 
 ## Work
 Systems Engineer
