@@ -4,6 +4,7 @@ My name is Christoffer and I am a CS student and professional networking enginee
 
 ## Skills & Experience
 Java<br>
+Javascript<br>
 C#<br>
 C++<br>
 .NET applications for Windows using C#<br>
@@ -19,7 +20,7 @@ Windows Server 2012-2022 Std & Core Versions<br>
 Wireless with Ubiquiti
 
 ## Work
-Systems/Networking Engineer
+Systems Engineer
 
 ### Contact Me!
 Discord: krilletgi
