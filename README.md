@@ -26,7 +26,7 @@ Wireless with Ubiquiti
 
 ## Upcoming Projects
  - https://myso.me
- - Project Mechanic
+ - Project Speedo
 
 ## Work
 Systems Engineer
