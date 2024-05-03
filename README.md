@@ -26,7 +26,7 @@ Wireless with Ubiquiti
 
 ## Upcoming Projects
  - https://myso.me
- - Unnamed Indie Game
+ - Project Mechanic
 
 ## Work
 Systems Engineer
