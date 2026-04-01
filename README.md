@@ -7,6 +7,7 @@ My name is Christoffer and I am a professional systems engineer who is always lo
 
 ## Skills & Experience
 Java<br>
+Typescript<br>
 Javascript<br>
 C#<br>
 C++<br>
@@ -27,6 +28,7 @@ Wireless with Ubiquiti
 ## Upcoming Projects
  - https://myso.me
  - Project Speedo
+ - RepairCrew
 
 ## Work
 Systems Engineer
