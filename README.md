@@ -1,6 +1,6 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f30484f545132642e676966](https://github.com/Krille360/Krille360/assets/65959215/d96e9ceb-fa6f-4ba6-8b55-ff188abe8667)
 ## Hi there 👋
-My name is Christoffer and I am a CS student and professional systems engineer who is always looking to learn new things!
+My name is Christoffer and I am a professional systems engineer who is always looking to learn new things!
 
 ## Current Projects
  - https://thegoldyiron.se
