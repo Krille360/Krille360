@@ -33,9 +33,9 @@ Wireless with Ubiquiti/Aruba/Fortinet
  - TGI-Machines
  - Konsult
  - VPN-Dashboard
- - Project Speedo
- - RepairCrew
+ - Indie Game (Steam)
  - https://skjutdata.se
+ - https://myso.me
 
 ## Work
 Systems Engineer
