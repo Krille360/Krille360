@@ -13,21 +13,26 @@ C#<br>
 C++<br>
 .NET applications for Windows using C#<br>
 Arduino<br>
-Relations Databases powered by MariaDB/MySQL<br>
+Relations Databases powered by MariaDB/MySQL/PostgreSQL<br>
 Networking with HP provision, ComWare 7, Aruba, Cisco, Huawei and Mikrotik<br>
 Firewalls from Fortinet, Checkpoint and Clavister<br>
 Fujitsu Fiberchannel SAN<br>
 Dell Compellent SAN<br>
 VMware vCenter Application<br>
 VMware ESX<br>
+Veeam Backup<br>
+Proxmox VM&Backup<br>
 Microsoft Active Directory<br>
 Microsoft Exchange<br>
-Linux Ubuntu and Debian<br>
+Docker<br>
+Linux Arch/Ubuntu/Debian<br>
 Windows Server 2012-2022 Std & Core Versions<br>
-Wireless with Ubiquiti
+Wireless with Ubiquiti/Aruba/Fortinet
 
 ## Upcoming Projects
- - https://myso.me
+ - TGI-Machines
+ - Konsult
+ - VPN-Dashboard
  - Project Speedo
  - RepairCrew
  - https://skjutdata.se
